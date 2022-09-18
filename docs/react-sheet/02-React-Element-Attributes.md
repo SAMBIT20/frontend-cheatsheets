@@ -1,7 +1,7 @@
 ---
 id: 2
 title: React Element Attributes
-sidebar_label: React Element Attributes
+sidebar_label: Element Attributes
 ---
 
 # React Element Attributes
