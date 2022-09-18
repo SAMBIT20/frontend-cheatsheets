@@ -27,5 +27,5 @@ jobs:
 
       - name: "`npm gen-readme` changes committed?"
         run: |
-          npm gen-readme
+          npm run gen-readme
           git diff --exit-code
