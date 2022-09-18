@@ -1,6 +1,6 @@
-# React+TypeScript Cheatsheets
+# Front-end Cheatsheet
 
-Cheatsheets for experienced React developers getting started with TypeScript
+Cheatsheets for experienced Front-end developers 👨🏻‍💻
 
 ---
 
