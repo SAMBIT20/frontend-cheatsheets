@@ -1,7 +1,7 @@
 ---
 id: 1
 title: React Elements
-sidebar_label: React Elements
+sidebar_label: Elements
 ---
 
 # React Elements
