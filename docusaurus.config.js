@@ -131,8 +131,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Frontend Cheatsheets`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: darkCodeTheme,
+        lightTheme: lightCodeTheme
       },
     }),
 };
