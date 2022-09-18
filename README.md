@@ -1,5 +1,3 @@
-# Front-end Cheatsheet for 2022 🚀
+# https://github.com/SAMBIT20/frontend-cheatsheets
+Cheatsheets for experienced Frontend developers getting started...
 
-## 📝 Content List
-
-### [#1: REACT.JS CHEATSHEET 👉](./React.md)
