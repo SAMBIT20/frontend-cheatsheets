@@ -25,10 +25,3 @@ jobs:
       - name: Install dependencies
         run: npm install --frozen-lockfile
 
-      - name: "`npm format` changes committed?"
-        run: npm format:check
-
-      - name: "`npm gen-readme` changes committed?"
-        run: |
-          npm gen-readme
-          git diff --exit-code
