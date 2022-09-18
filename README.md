@@ -17,6 +17,6 @@ Cheatsheets for experienced Front-end developers 👨🏻‍💻
 [**Web docs**](https://frontend-cheatsheets.vercel.app/) |
 [Ask!](https://github.com/SAMBIT20/frontend-cheatsheets/issues/new)
 
-:wave: This repo is maintained by [@swyx](https://twitter.com/swyx), [@eps1lon](https://twitter.com/sebsilbermann) and [@filiptammergard](https://twitter.com/tammergard). We're so happy you want to try out TypeScript with React! If you see anything wrong or missing, please [file an issue](https://github.com/typescript-cheatsheets/react/issues/new/choose)! :+1:
+:wave: This repo is maintained by [@sambit_dev](https://twitter.com/sambit_dev). I am so happy you want to try out Front-end Cheatsheet! If you see anything wrong or missing, please [file an issue](https://github.com/SAMBIT20/frontend-cheatsheets/issues/new)! :+1:
 
 ---
