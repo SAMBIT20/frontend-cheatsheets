@@ -1,7 +1,7 @@
 ---
 id: 1
 title: What is JSX?
-sidebar_label: JSX?
+sidebar_label: What is JSX?
 ---
 
 JSX stands for JavaScript XML. It allows us to write HTML inside JavaScript and place them in the DOM without using functions like appendChild( ) or createElement( ).
