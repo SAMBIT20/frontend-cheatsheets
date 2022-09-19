@@ -24,4 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: npm install --frozen-lockfile
+      
+      - name: Linting Check
+        run: npm run lint
 
