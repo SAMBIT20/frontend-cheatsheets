@@ -63,10 +63,22 @@ const config = {
         },
         items: [
           {
-            type: "doc",
-            docId: "intro",
-            position: "right",
+            to: "/docs/category/react-cheatsheet",
+            activeBasePath: "docs",
             label: "Cheatsheets",
+            position: "right",
+          },
+          {
+            to: "/docs/category/react-interview-questions",
+            activeBasePath: "docs",
+            label: "Interview Questions",
+            position: "right",
+          },
+          {
+            to: "/docs/category/roadmaps",
+            activeBasePath: "docs",
+            label: "Roadmaps",
+            position: "right",
           },
           {
             href: "https://github.com/SAMBIT20/frontend-cheatsheets",
@@ -108,6 +120,7 @@ const config = {
               },
             ],
           },
+
           {
             title: "More",
             items: [
@@ -132,7 +145,7 @@ const config = {
       },
       prism: {
         theme: darkCodeTheme,
-        lightTheme: lightCodeTheme
+        lightTheme: lightCodeTheme,
       },
     }),
 };
