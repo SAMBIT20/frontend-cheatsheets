@@ -1,0 +1,39 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:jsx-a11y/recommended",
+    "plugin:@docusaurus/recommended",
+    "plugin:markdown/recommended"
+  ],
+  "plugins": ["react", "jsx-a11y", "@docusaurus", "markdown"],
+  "rules": {
+    "no-console": "error",
+    "react/prop-types": 0,
+    "indent": ["error", 2],
+    "linebreak-style": 1,
+    "quotes": ["error", "double"],
+    "@docusaurus/string-literal-i18n-messages": "error",
+    "@docusaurus/no-untranslated-text": [
+      "warn",
+      { "ignoredStrings": ["·", "—", "×"] }
+    ]
+  },
+  "parserOptions": {
+    "ecmaVersion": 2021,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}
