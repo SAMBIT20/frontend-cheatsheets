@@ -1,5 +1,5 @@
 ---
-id: 4
+id: 3
 title: OOP-Working with Classes
 sidebar_label: Classes in JavaScript
 ---
@@ -47,7 +47,7 @@ const student1 = {
 };
 ```
 
-If you don't understand how the above code works, Please check the Objects in JavaScript [Click👆](/docs/ES6/5/)
+If you don't understand how the above code works, Please check the Objects in JavaScript [Click👆](/docs/ES6/4/)
 
 ### 2. Classes
 

@@ -1,5 +1,5 @@
 ---
-id: 5
+id: 4
 title: Objects in JavaScript-Everything You Need to Know.
 sidebar_label: Objects in JavaScript
 ---
